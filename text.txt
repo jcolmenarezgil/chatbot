@@ -1,0 +1,219 @@
+hi,
+Hi can I help you?
+
+hi,
+Hi there! How can I help you today?
+
+hi,
+Hello! What brings you here?
+
+hi,
+Hi! It's nice to see you. What can I do for you?
+
+hi,
+Hey! Welcome! How can I assist you?
+
+hi,
+Hi! Glad to have you here. What do you need?
+
+hi,
+Hello! I'm ready to help. What's your question?
+
+hi,
+Hi! Let me know what you're looking for.
+
+hi,
+Hey there! I'm here to assist you.
+
+hi,
+Hi! How can I be of service?
+
+hi,
+Hello! What can I help you with today?
+
+hello,
+Hello there!
+
+hello,
+Hello there! How can I help you today?
+
+hello,
+Hi! What brings you here?
+
+hello,
+Hello! It's nice to see you. What can I do for you?
+
+hello,
+Hey! Welcome! How can I assist you?
+
+hello,
+Hi! Glad to have you here. What do you need?
+
+hello,
+Hello! I'm ready to help. What's your question?
+
+hello,
+Hi! Let me know what you're looking for.
+
+hello,
+Hey there! I'm here to assist you.
+
+hello,
+Hi! How can I be of service?
+
+hello,
+Hello! What can I help you with today?
+
+hello there,
+Hello there! How can I help you today?
+
+hello there,
+Hi there! What brings you here?
+
+hello there,
+Hey there! What's up?
+
+hello there,
+Hi! How's it going?
+
+good morning,
+Good morning! What can I do for you today?
+
+good morning,
+Good morning! How can I help you start your day?
+
+good morning,
+Good morning! What can I assist you with this morning?
+
+good morning,
+Good morning! I hope you have a wonderful day. What do you need?
+
+good morning,
+Good morning! Rise and shine! What can I do for you?
+
+good afternoon,
+Good afternoon. How may I assist you?
+
+good afternoon,
+Good afternoon! How can I help you this afternoon?
+
+good afternoon,
+Good afternoon! What can I assist you with today?
+
+good afternoon,
+Good afternoon! I hope your day is going well. What do you need?
+
+good afternoon,
+Good afternoon! How's your day so far? What can I do for you?
+
+good afternoon,
+Good afternoon! Anything I can help you with as your day winds down?
+
+good evening,
+Good evening. Is there anything I can help you with?
+
+good evening,
+Good evening! How can I help you this evening?
+
+good evening,
+Good evening! What can I assist you with tonight?
+
+good evening,
+Good evening! I hope you had a great day. What do you need?
+
+good evening,
+Good evening! Relaxing time! What can I do for you?
+
+good evening,
+Good evening! Anything I can help you with before you turn in?
+
+hi! how are you?,
+Hey! I'm doing well, how about you?
+
+hi! how are you?,
+Hi! I'm good, thanks. How are you doing today?
+
+hi! how are you?,
+Hey! Not bad, how's it going on your end?
+
+hi! how are you?,
+Hi! I'm great, thanks for asking. How are you feeling today?
+
+hi! how are you?,
+Hey! All good here, how's everything with you?
+
+hi! how are you?,
+Hello! I'm doing well, thank you for asking. How are you today?
+
+hi! how are you?,
+Hi! I'm fine, thank you. How are you doing?
+
+hi! how are you?,
+Hello! I'm quite well, thank you. And yourself?
+
+hi! how are you?,
+Hi! I'm doing alright, thank you for your inquiry. How are you feeling today?
+
+hi! how are you?,
+Hello! I'm doing well, thank you for asking. How is everything going in your world?
+
+good,
+Great! What can I do for you today?
+
+good,
+Awesome! How can I help you?
+
+good,
+Excellent! What brings you here?
+
+good,
+Wonderful! What do you need?
+
+good,
+Fantastic! How may I assist you?
+
+good thankyou,
+You're welcome! How can I help you further?
+
+good thankyou,
+Great! Is there anything else I can do for you?
+
+good thankyou,
+You're very welcome! What do you need today?
+
+good thankyou,
+Awesome! Feel free to ask if you need anything else.
+
+good thankyou,
+You're most welcome! How can I be of service?
+
+bad,
+Oh no! I'm sorry to hear that. What happened?
+
+bad,
+I'm sorry you're feeling bad. Is there anything I can do to help?
+
+bad,
+That's not good. What's going on?
+
+bad,
+I'm sorry to hear that. What's the matter?
+
+bad,
+Oh dear! I hope things get better. What can I do for you?
+
+awful,
+Oh dear! I'm so sorry to hear that. What's wrong?
+
+awful,
+That sounds terrible! What happened?
+
+awful,
+I'm really sorry you're feeling so awful. What can I do to help?
+
+awful,
+That's awful! I hope things improve soon. What do you need?
+
+awful,
+Oh no! That's really bad. What's the problem?
+
